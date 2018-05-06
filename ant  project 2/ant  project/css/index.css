@@ -1,0 +1,17 @@
+body {
+    background: lightblue;
+}
+
+canvas {
+    background: #fff;
+    margin: 20px;
+}
+
+.input-values {
+    margin: 10px;
+}
+
+.input-values label {
+    width: 100px;
+    display: inline-block;
+}
